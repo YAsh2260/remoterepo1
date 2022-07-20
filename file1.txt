@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hai hello welcome
 `
+=======
+iHi
+this is file1.txt
+>>>>>>> 82ab7db3d61c638e6d52d712e8c2b8cb82c9339e
