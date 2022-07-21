@@ -1,4 +1,0 @@
-Hai,
-   Have a wonderful evening.
-   This is a good day.
-   Good to practise git.
